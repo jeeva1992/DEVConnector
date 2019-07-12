@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://bluefire123:bluefire123@devconnector-cs8yj.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "089105c6acd72f95ed15",
+  "githubSecret": "84ff8dd399d0ea7bdff5fa59fa7a124e01318a07"
+}
